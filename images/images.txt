@@ -1,0 +1,1 @@
+To view the product with the image, you can add the images into the images folder.
